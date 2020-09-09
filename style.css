@@ -1,0 +1,17 @@
+body {
+  font-family: fantasy;
+  -webkit-text-stroke: 1px #ffffff;
+  text-shadow: -3px 3px 4px #ffffff, 3px 3px 4px #ffffff, 3px -3px 0 #ffffff,
+    -3px -3px 0 #ffffff;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* align-content: center; */
+  margin: auto 50%;
+}
+.clock {
+  font-size: 200px;
+}
+.hex {
+  font-size: 100px;
+}
