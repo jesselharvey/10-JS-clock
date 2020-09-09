@@ -1,8 +1,8 @@
 body {
   font-family: fantasy;
   -webkit-text-stroke: 1px #ffffff;
-  text-shadow: -3px 3px 4px #ffffff, 3px 3px 4px #ffffff, 3px -3px 0 #ffffff,
-    -3px -3px 0 #ffffff;
+  text-shadow: -2px 2px 5px #ffffff, 2px 2px 5px #ffffff, 2px -2px 5px #ffffff,
+    -2px -2px 5px #ffffff;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
